@@ -8,7 +8,6 @@ import { VouchersProps } from "@/types/voucher.type";
 import { Trash2, X } from "lucide-react";
 import { useContext } from "react";
 
-
 interface ModalInfoProps {
   voucher: VouchersProps;
 }
